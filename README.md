@@ -1,5 +1,6 @@
 # 🎵 MediaStream — Spotify & YouTube Web Player
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://media-stream-neon.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -8,7 +9,7 @@
 
 A modern, high-performance **Spotify & YouTube Media Web Player** built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. 
 
-Paste any Spotify playlist, album, or track link—or any YouTube music video, live stream, or playlist link—to stream music immediately in a sleek **Dark & Light Mode glassmorphism interface**.
+🌐 **Live Demo**: [https://media-stream-neon.vercel.app/](https://media-stream-neon.vercel.app/)
 
 ---
 
